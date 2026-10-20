@@ -1,0 +1,3 @@
+#include <climits>
+#include <iostream>
+int main(){ long long farePaise=1001, totalPaise=farePaise*3000000LL; double fareRupees=10.01, totalDouble=fareRupees*3000000; std::cout << "sizeof(int): " << sizeof(int) << " bytes\nsizeof(long long): " << sizeof(long long) << " bytes\nsizeof(double): " << sizeof(double) << " bytes\n"; std::cout << "INT_MAX: " << INT_MAX << "\n"; std::cout << "Integer-paise total for 3,000,000 fares of 1001 paise: " << totalPaise << " paise\n"; std::cout << "Double total for 3,000,000 fares of Rs 10.01: Rs " << totalDouble << "\n"; std::cout << "Use integer paise to represent money exactly.\n"; }
