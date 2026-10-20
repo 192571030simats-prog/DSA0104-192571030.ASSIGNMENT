@@ -1,0 +1,4 @@
+#include <iostream>
+class SmartCard { long long balance_; public: explicit SmartCard(long long b):balance_(b){} bool canTravel(long long fare) const { return fare>=0 && balance_-fare>=5000; } bool deduct(long long fare){ if(!canTravel(fare)) return false; balance_-=fare; return true; } long long balance()const{return balance_;} };
+bool proceduralCanTravel(long long balance,long long fare){return fare>=0 && balance-fare>=5000;}
+int main(){ long long balance=10000, fare=3000; std::cout << "Procedural: travel allowed = " << std::boolalpha << proceduralCanTravel(balance,fare) << '\n'; SmartCard card(balance); std::cout << "OOP: deduction accepted = " << card.deduct(fare) << '\n'; std::cout << "OOP remaining balance (paise) = " << card.balance() << '\n'; std::cout << "Attempt fare 6000 paise = " << card.deduct(6000) << '\n'; std::cout << "Balance invariant preserved = " << (card.balance()>=5000) << '\n'; }
