@@ -1,0 +1,6 @@
+Recommended design: enum class Zone + constexpr fare table
+Money storage: long long integer paise
+Card balance: private member with canTravel() and deduct()
+Peak surcharge: 20%; minimum post-trip balance: 5000 paise
+Base fares (paise): 1000 2000 3000 
+Complexity per journey: O(1)
