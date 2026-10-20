@@ -1,4 +1,0 @@
-Airport weekday off-peak paise: 6000
-Airport weekday peak paise: 7200
-Airport weekend paise: 5400
-Pass covers Inner: 1
