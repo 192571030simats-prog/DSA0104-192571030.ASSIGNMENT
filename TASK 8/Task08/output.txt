@@ -1,0 +1,4 @@
+Invalid hour input detected
+Discarded invalid token: abc
+Recovered hour: 17
+Formatted fare: Rs 36.00
