@@ -1,5 +1,0 @@
-Procedural: travel allowed = true
-OOP: deduction accepted = true
-OOP remaining balance (paise) = 7000
-Attempt fare 6000 paise = false
-Balance invariant preserved = true
