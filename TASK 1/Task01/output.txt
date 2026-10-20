@@ -1,0 +1,5 @@
+Objects: Passenger, SmartCard, Journey, Zone, FareTable
+Card starts at Rs 100.00
+Inner fare Rs 10.00 accepted: true
+Remaining balance paise: 9000
+Invariant balance >= 5000 paise: true
