@@ -1,0 +1,5 @@
+Journeys: 3000000
+Exact integer-paise total: 3003000000 paise
+Double-rupee total: Rs 30030000.00
+Exact total in rupees: Rs 30030000.00
+int max: 2147483647; total paise exceeds int range: true
