@@ -1,0 +1,1 @@
+The fixed array is private to protect invariants. The circular index overwrites the oldest transaction in O(1) per addition and uses O(10) storage; shifting costs O(k) for k retained entries. Increasing capacity to 50 changes the constant capacity and storage, not the algorithm.

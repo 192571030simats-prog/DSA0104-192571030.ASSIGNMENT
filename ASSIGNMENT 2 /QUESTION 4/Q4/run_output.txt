@@ -1,0 +1,7 @@
+Account: SA-1042
+Balance: 1205
+Recent transactions (oldest to newest):
+200
+-50
+75
+-20
