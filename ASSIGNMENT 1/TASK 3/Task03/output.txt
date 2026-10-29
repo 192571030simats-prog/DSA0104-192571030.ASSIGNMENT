@@ -1,0 +1,7 @@
+sizeof(int): 4 bytes
+sizeof(long long): 8 bytes
+sizeof(double): 8 bytes
+INT_MAX: 2147483647
+Integer-paise total for 3,000,000 fares of 1001 paise: 3003000000 paise
+Double total for 3,000,000 fares of Rs 10.01: Rs 3.003e+07
+Use integer paise to represent money exactly.
