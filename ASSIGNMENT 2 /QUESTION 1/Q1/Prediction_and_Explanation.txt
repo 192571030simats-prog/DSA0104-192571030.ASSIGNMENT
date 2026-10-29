@@ -1,0 +1,5 @@
+Predicted output for the supplied snippet:
+1 12 13
+100 13
+16 13 6
+Reason: a is passed by value and remains 1 after change; b and c are changed to 12 and 13. bigger(a,c) returns a reference to c because 1 < 13, so assignment sets c to 100. show(1) uses y=5,z=10; show(1,2) uses z=10; show(1,2,3) uses no defaults.
