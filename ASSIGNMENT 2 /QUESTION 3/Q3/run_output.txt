@@ -1,0 +1,6 @@
+charge(2) [int grams]: 50.04
+charge(2.0) [double kg]: 90
+charge(2.0f) [float kg]: 90
+charge(2000) [int grams]: 90
+charge(2.0, true) [express]: 120
+charge(Parcel) [express+insured]: 135

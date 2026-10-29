@@ -1,0 +1,1 @@
+The original overload set is ambiguous because charge(double) and overloads with default arguments can both accept calls with one or two arguments. Use one double overload with defaults and distinct overloads for int grams, float kg, and Parcel. Defaults must be trailing because arguments are supplied positionally from left to right.

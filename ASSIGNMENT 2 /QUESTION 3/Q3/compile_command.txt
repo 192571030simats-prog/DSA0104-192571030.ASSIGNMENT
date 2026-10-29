@@ -1,0 +1,1 @@
+g++ -std=c++17 -Wall -Wextra Q3.cpp -o /mnt/data/Assignment2_CO2_Outputs/Q3/Q3
