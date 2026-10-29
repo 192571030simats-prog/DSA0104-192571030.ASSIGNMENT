@@ -1,0 +1,1 @@
+Chosen limitation: shifting retained transactions on every new insertion costs O(k). Objective: retain the last 10 values while reducing insertion to O(1). Redesign: circular buffer with start/next index, O(1) insertion and O(k) traversal/printing, at the cost of index bookkeeping. In this demo both designs retain 6–15.
