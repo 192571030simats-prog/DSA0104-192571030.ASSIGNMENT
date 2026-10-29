@@ -1,0 +1,3 @@
+Highest before moderation: 91
+Highest after moderation: 93
+Array after moderation: 76 93 84 88 91 
