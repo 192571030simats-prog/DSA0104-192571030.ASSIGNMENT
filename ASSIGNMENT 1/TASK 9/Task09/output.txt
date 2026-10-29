@@ -1,0 +1,6 @@
+Inner off-peak: expected 1000, actual 1000 paise - PASS
+Inner peak: expected 1200, actual 1200 paise - PASS
+Middle off-peak: expected 2000, actual 2000 paise - PASS
+Outer off-peak: expected 3000, actual 3000 paise - PASS
+Outer peak: expected 3600, actual 3600 paise - PASS
+Tests passed: 5/5
