@@ -1,0 +1,1 @@
+Token output: 101 103 104 4. The static counter begins at 100, then the three array elements and extra object each increment it once. BusTicket output is Asha Seat 1, Bala Seat 2, Chitra Seat 3, Dev Waiting, Issued 3.

@@ -1,0 +1,6 @@
+Token prediction program: 101 103 104 4
+Asha: Seat 1
+Bala: Seat 2
+Chitra: Seat 3
+Dev: Waiting
+Issued: 3
