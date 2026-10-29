@@ -1,0 +1,1 @@
+Expected first line: 205 false. 13:10 is 205 minutes after 09:45; arrival is not earlier than departure. Equal times have a difference of 0 and neither is earlier than the other.
