@@ -1,6 +1,0 @@
-Inner fare (paise): 1000
-Middle fare (paise): 2000
-Outer fare (paise): 3000
-Peak surcharge (%): 20
-Minimum remaining balance (paise): 5000
-Outer zone selected safely with enum class: 1
