@@ -1,0 +1,5 @@
+Rs 200.00
+true
+Carry test: Rs 1.25
+Negative subtraction: -Rs 1.00
+Bill total: Rs 125.50
