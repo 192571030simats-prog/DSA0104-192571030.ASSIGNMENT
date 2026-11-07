@@ -1,0 +1,11 @@
+[copy constructor: 2 medicines]
+Ibuprofen ORS | Paracetamol Cetirizine | Paracetamol ORS
+[copy constructor: 2 medicines]
+Passed by value.
+Passed by const reference.
+[copy constructor: 10 medicines]
+Copy 10 medicines: 0 us (one local measurement)
+[copy constructor: 1000 medicines]
+Copy 1000 medicines: 21 us (one local measurement)
+[copy constructor: 100000 medicines]
+Copy 100000 medicines: 2873 us (one local measurement)
