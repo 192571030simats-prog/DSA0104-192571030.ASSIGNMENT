@@ -1,0 +1,5 @@
+Default constructor: Title: Untitled | Author: Unknown | Copies: 0
+Title-only constructor: Title: The Selfish Gene | Author: Unknown | Copies: 1
+Parameterized constructor: Title: The Gene | Author: Siddhartha Mukherjee | Copies: 4
+Declaration-order demo: 10 20
+Negative copies rejected: number of copies cannot be negative
