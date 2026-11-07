@@ -1,0 +1,13 @@
+-- stack object --
+Constructed MorningShow (2x3)
+-- block object --
+Constructed AfternoonShow (1x2)
+Destroyed AfternoonShow; booked seats=1
+-- heap object --
+Constructed EveningShow (2x2)
+Destroyed EveningShow; booked seats=1
+-- zero rows --
+Constructed NoSeats (0x10)
+Seat map payload examples (char bytes): 200, 20000, 2000000
+Destroyed NoSeats; booked seats=0
+Destroyed MorningShow; booked seats=1
