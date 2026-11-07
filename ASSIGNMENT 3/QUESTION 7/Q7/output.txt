@@ -1,0 +1,6 @@
+R = 10 + j0 | magnitude=10
+L = 0 + j1 | magnitude=1
+C = 0 - j10 | magnitude=10
+Series RLC = 10 - j9 | magnitude=13.4536
+Parallel RLC = 0.121951 + j1.09756 | magnitude=1.10432
+Safe division: division by zero impedance
