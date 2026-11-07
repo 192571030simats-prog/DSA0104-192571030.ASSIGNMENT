@@ -1,0 +1,5 @@
+Concatenated: Hello world
+Empty text: []
+Equal after self-assignment: true
+Long message length: 10000
+std::string concatenation length: 1001
