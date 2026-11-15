@@ -1,0 +1,6 @@
+FILE: Task05/cart.cpp
+COMPILE: g++ -std=c++17 -Wall -Wextra /mnt/data/DSA01_Assignment4_Package/Source_Code/Task05/cart.cpp -o /mnt/data/DSA01_Assignment4_Package/Execution_Outputs/cart
+RUN EXIT: 0
+ACTUAL OUTPUT:
+324.00
+Highest cart total: 324.00
