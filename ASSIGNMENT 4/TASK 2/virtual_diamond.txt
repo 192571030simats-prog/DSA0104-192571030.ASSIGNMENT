@@ -1,0 +1,5 @@
+FILE: Task02/virtual_diamond.cpp
+COMPILE: g++ -std=c++17 -Wall -Wextra /mnt/data/DSA01_Assignment4_Package/Source_Code/Task02/virtual_diamond.cpp -o /mnt/data/DSA01_Assignment4_Package/Execution_Outputs/virtual_diamond
+RUN EXIT: 0
+ACTUAL OUTPUT:
+Person Student Staff TA

@@ -1,0 +1,8 @@
+FILE: Task02/composition_size.cpp
+COMPILE: g++ -std=c++17 -Wall -Wextra /mnt/data/DSA01_Assignment4_Package/Source_Code/Task02/composition_size.cpp -o /mnt/data/DSA01_Assignment4_Package/Execution_Outputs/composition_size
+RUN EXIT: 0
+ACTUAL OUTPUT:
+Virtual inheritance TA size: 120
+Composition TA size: 160
+Shared virtual-base name: Kavya
+Student identity / Staff identity
