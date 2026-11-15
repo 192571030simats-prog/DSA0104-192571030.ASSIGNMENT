@@ -1,0 +1,5 @@
+FILE: Task04/polymorphism_prediction.cpp
+COMPILE: g++ -std=c++17 -Wall -Wextra /mnt/data/DSA01_Assignment4_Package/Source_Code/Task04/polymorphism_prediction.cpp -o /mnt/data/DSA01_Assignment4_Package/Execution_Outputs/polymorphism_prediction
+RUN EXIT: 0
+ACTUAL OUTPUT:
+3.5 4 3.5

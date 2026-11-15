@@ -1,0 +1,9 @@
+FILE: Task04/accounts.cpp
+COMPILE: g++ -std=c++17 -Wall -Wextra /mnt/data/DSA01_Assignment4_Package/Source_Code/Task04/accounts.cpp -o /mnt/data/DSA01_Assignment4_Package/Execution_Outputs/accounts
+RUN EXIT: 0
+ACTUAL OUTPUT:
+3.5
+4
+Account destroyed
+SeniorAccount destroyed; history released
+Account destroyed

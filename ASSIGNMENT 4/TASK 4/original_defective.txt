@@ -1,0 +1,12 @@
+FILE: Task04/original_defective.cpp
+COMPILE: g++ -std=c++17 -Wall -Wextra /mnt/data/DSA01_Assignment4_Package/Source_Code/Task04/original_defective.cpp -o /mnt/data/DSA01_Assignment4_Package/Execution_Outputs/original_defective
+RUN EXIT: 0
+ACTUAL OUTPUT:
+3.5
+3.5
+Account destructor
+Account destructor
+SeniorAccount destructor; history released
+Account destructor
+3.5
+Account destructor
