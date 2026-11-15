@@ -1,0 +1,16 @@
+FILE: Task03/initializer_order_warning.cpp
+COMPILE: g++ -std=c++17 -Wall -Wextra /mnt/data/DSA01_Assignment4_Package/Source_Code/Task03/initializer_order_warning.cpp -o /mnt/data/DSA01_Assignment4_Package/Execution_Outputs/initializer_order_warning
+RUN EXIT: 0
+ACTUAL OUTPUT:
+1 2
+REORDER WARNING BUILD:
+/mnt/data/DSA01_Assignment4_Package/Source_Code/Task03/initializer_order_warning.cpp: In constructor ‘Sample::Sample()’:
+/mnt/data/DSA01_Assignment4_Package/Source_Code/Task03/initializer_order_warning.cpp:5:9: warning: ‘Sample::second’ will be initialized after [-Wreorder]
+    5 |     int second;
+      |         ^~~~~~
+/mnt/data/DSA01_Assignment4_Package/Source_Code/Task03/initializer_order_warning.cpp:4:9: warning:   ‘int Sample::first’ [-Wreorder]
+    4 |     int first;
+      |         ^~~~~
+/mnt/data/DSA01_Assignment4_Package/Source_Code/Task03/initializer_order_warning.cpp:7:5: warning:   when initialized here [-Wreorder]
+    7 |     Sample() : second(2), first(1) {}
+      |     ^~~~~~

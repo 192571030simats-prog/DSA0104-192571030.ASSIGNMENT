@@ -1,0 +1,7 @@
+FILE: Task03/construction_trace.cpp
+COMPILE: g++ -std=c++17 -Wall -Wextra /mnt/data/DSA01_Assignment4_Package/Source_Code/Task03/construction_trace.cpp -o /mnt/data/DSA01_Assignment4_Package/Execution_Outputs/construction_trace
+RUN EXIT: 0
+ACTUAL OUTPUT:
+Address constructed Person constructed Student constructed | Student destroyed Person destroyed Address destroyed 
+Address constructed Person constructed Staff constructed | Staff destroyed Person destroyed Address destroyed 
+VirtualPerson VStudent VStaff TA |
