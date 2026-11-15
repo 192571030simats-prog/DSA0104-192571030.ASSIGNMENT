@@ -1,0 +1,14 @@
+FILE: Task06/vehicle_rental.cpp
+COMPILE: g++ -std=c++17 -Wall -Wextra /mnt/data/DSA01_Assignment4_Package/Source_Code/Task06/vehicle_rental.cpp -o /mnt/data/DSA01_Assignment4_Package/Execution_Outputs/vehicle_rental
+RUN EXIT: 0
+ACTUAL OUTPUT:
+Bicycle BIC-101 daily rate Rs.100.00
+TwoWheeler TW-202 daily rate Rs.300.00
+Car CAR-303 daily rate Rs.1000.00
+ElectricCar EV-404 daily rate Rs.1500.00
+Rent Bicycle for 2 day(s): Rs.200.00
+Rent TwoWheeler for 2 day(s): Rs.600.00
+Rent Car for 2 day(s): Rs.2000.00
+Rent ElectricCar for 2 day(s): Rs.3480.00
+Return Car: late fee Rs.500.00, total due Rs.1500.00
+Rent ElectricBus for 2 day(s): Rs.5990.00
