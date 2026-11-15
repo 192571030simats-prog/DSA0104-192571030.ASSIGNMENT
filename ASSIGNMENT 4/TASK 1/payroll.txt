@@ -1,0 +1,7 @@
+FILE: Task01/payroll.cpp
+COMPILE: g++ -std=c++17 -Wall -Wextra /mnt/data/DSA01_Assignment4_Package/Source_Code/Task01/payroll.cpp -o /mnt/data/DSA01_Assignment4_Package/Execution_Outputs/payroll
+RUN EXIT: 0
+ACTUAL OUTPUT:
+Anita (101): 76000
+Bala (102): 42600
+Charan (103): 16000
