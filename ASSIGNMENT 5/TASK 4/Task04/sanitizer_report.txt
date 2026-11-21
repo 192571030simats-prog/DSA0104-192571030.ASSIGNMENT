@@ -1,0 +1,8 @@
+AddressSanitizer compilation successful. Runtime exit code: 0
+OP Ravi: 1700.00
+DayCare Kiran: 18000.00
+Corporate payer covers: 15300.00
+Exception and resource test:
+Handled: negative charge
+Earlier bills remain available: 1700.00
+All resource owners leave scope safely.
