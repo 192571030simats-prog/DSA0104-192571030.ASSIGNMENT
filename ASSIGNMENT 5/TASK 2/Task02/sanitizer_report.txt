@@ -1,0 +1,17 @@
+AddressSanitizer compilation successful. Runtime exit code: 0
+Validation and rethrow test:
+ok done caught negative [log too large] caught too large 
+
+Claim settlement:
+approved 40000
+approved audit: exceeds cover
+claim rejected: exceeds cover
+approved error: negative amount
+
+RAII during exception:
+destroy temporary resource
+caught: demonstration error
+Other error inputs:
+text conversion: stod
+array access: vector::_M_range_check: __n (which is 3) >= this->size() (which is 0)
+allocation failure handled
